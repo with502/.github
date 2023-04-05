@@ -3,7 +3,7 @@
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
 
-  <h1>  🚀코딩테스트 스터디 </h1>
+  <h1>  🚀자바 스터디 </h1>
   
   ✨스터디원✨
   
